@@ -18,8 +18,8 @@ log.info("\n\nStarting...\n")
 
 try:
     bot_token = "5136177339:AAF2w85bKr8C4_3-KPy9ycpk3t1OaUaeyRs"
-    REDIS_URI = "redis-11964.c212.ap-south-1-1.ec2.cloud.redislabs.com:11964"
-    REDIS_PASSWORD = "NRRPP3JsX3PyasF8ITrxhrQYofL1qrCu"
+    REDIS_URI = "redis-17675.c57.us-east-1-4.ec2.cloud.redislabs.com:17675"
+    REDIS_PASSWORD = "Eislmh2Gdq9FIMPrLflah9iPoP8lAiXH"
     AUTH = 1125671241
 except Exception as e:
     log.exception(e)
